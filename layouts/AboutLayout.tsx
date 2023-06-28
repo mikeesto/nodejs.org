@@ -8,6 +8,15 @@ const AboutLayout: FC<PropsWithChildren> = ({ children }) => (
       <SideNavigation navigationKey="about" />
       <article dir="auto">{children}</article>
     </div>
+
+
+
+
+
+
+
+
+
   </BaseLayout>
 );
 
